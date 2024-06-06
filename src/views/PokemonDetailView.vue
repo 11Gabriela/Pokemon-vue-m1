@@ -113,7 +113,7 @@ export default {
   margin: 0 2px;
 }
 
-/* Estilos para las habilidades de Pokémon */
+
 .pokemon-ability {
   background-color: #4a90e2;
   border-radius: 5px;
